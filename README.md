@@ -1,6 +1,6 @@
 # *Hi, Developers*.
-## 👨‍🎓 I'm ***Tejas Tamkar***, I'm **Cross platform Mobile Application Developer** and **Full Stack Web Developer**. 
 
+## 👨‍🎓 I'm ***Tejas Tamkar***, I'm **Cross platform Mobile Application Developer** and **Full Stack Web Developer**. 
 ### 💻 I enjoy Building application for my personal portals and for other clients. I learned **ReactJs and ReactNative** in 2020. Start building static and small dynamic Web applications and now I'm using **Flutter and dart** to build cross platform applications.
 
 ### 🗄️ For Application **Database** i used **Firebase🔥** and **mongodb🌲**. To build the custom **API** I learn **Pyhon-Flask** and **nodejs**.
@@ -13,7 +13,6 @@
 <br/>
 
 # **🏅 Achievements**
-
 ## ⭐ Me and my Team was the finalist of Smart India Hackathon 2022.
 <br/>
 
