@@ -1,5 +1,5 @@
 # *Hi, Developers*.
-## 👨‍🎓 I'm ***Tejas Tamkar***,I'm **Cross platform Mobile Application Developer** and **Full Stack Web Developer**. 
+## 👨‍🎓 I'm ***Tejas Tamkar***, I'm **Cross platform Mobile Application Developer** and **Full Stack Web Developer**. 
 
 ### 💻 I enjoy Building application for my personal portals and for other clients. I learned **ReactJs and ReactNative** in 2020. Start building static and small dynamic Web applications and now I'm using **Flutter and dart** to build cross platform applications.
 
