@@ -1,11 +1,11 @@
 # *Hi, Developers*.
 ## 👨‍🎓 I'm ***Tejas Tamkar***,I'm **Cross platform Mobile Application Developer** and **Full Stack Web Developer**. 
 
-### 💻 I enjoy Building application for my personal protarls and for other clients. I learned **ReactJs and ReactNative** in 2020. Start building static and small dynamic Web applications and now I'm using **Flutter and dart** to build cross platform applications.
+### 💻 I enjoy Building application for my personal portals and for other clients. I learned **ReactJs and ReactNative** in 2020. Start building static and small dynamic Web applications and now I'm using **Flutter and dart** to build cross platform applications.
 
 ### 🗄️ For Application **Database** i used **Firebase🔥** and **mongodb🌲**. To build the custom **API** I learn **Pyhon-Flask** and **nodejs**.
 
-### 👨‍🎨 I make my own GUI and wireframes for my projects using **Figma** and **XD**. I just love playing with color combinations and UI desgining.
+### 👨‍🎨 I make my own GUI and wireframes for my projects using **Figma** and **XD**. I just love playing with colors🎨 combinations and UI desgins.
 
 ### 🙋‍♂️ Apart from Tech World... I love to sing songs 🎤 and play some electric keyboard 🎹 . I love playing and watching Football ⚽. I'm more into Cars 🚘🚔 then music 🎧.
 
