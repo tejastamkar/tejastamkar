@@ -1,44 +1,103 @@
-# *Hi, Developers*.
+# 👋 Hi, Developers!
 
-## 👨‍🎓 I'm ***Tejas Tamkar***, I'm **Cross platform Mobile Application Developer** and **Full Stack Web Developer**. 
-### 💻 I enjoy Building application for my personal portals and for other clients. I learned **ReactJs and ReactNative** in 2020. Start building static and small dynamic Web applications and now I'm using **Flutter and dart** to build cross platform applications.
+# **I'm Tejas Tamkar**
 
-### 🗄️ For Application **Database** i used **Firebase🔥** and **mongodb🌲**. To build the custom **API** I learn **Pyhon-Flask** and **nodejs**.
+## 🚀 Cross-Platform Mobile Application Developer & Full Stack Web Developer
 
-### 👨‍🎨 I make my own GUI and wireframes for my projects using **Figma** and **XD**. I just love playing with colors🎨 combinations and UI desgins.
+With **3+ years of experience**, I build production-ready mobile apps, scalable backend systems, and modern web platforms.
+I started my journey in **2020** with **React & React Native**, and today I develop high-performance applications using
+**Flutter, Node.js, and Next.js** for clients, startups, and my personal tech ecosystem.
 
-### 🙋‍♂️ Apart from Tech World... I love to sing songs 🎤 and play some electric keyboard 🎹 . I love playing and watching Football ⚽. I'm more into Cars 🚘🚔 then music 🎧.
+---
 
-### 🎼 Music help me think faster and make me foucs on my work. I guess you should try it 
-<br/>
+# 🧩 What I Do
 
-# **🏅 Achievements**
-## ⭐ Me and my Team was the finalist of Smart India Hackathon 2022.
-<br/>
+### 💻 **Cross-Platform App Development**
 
-# 👨‍💻Programming Languages and FrameWorks
-* **Languages**
-    * Python
-    * JavaScript
-    * TypeScript
-    * Java 
-    * C and C++
-    * PHP
-    * C# 
-    * Dart
-    * Rust
-    * Bash
-    * Sql 
-    * Nosql
-    * ReactNative
-* **FrameWorks**
-    * Flask 
-    * Reactjs
-    * React Native
-    * NextJs
-    * Nodejs
-    * VueJs
-    * Flutter
-    * Firebase 
-    * MangoDB
-    * XAMPP
+* Build feature-rich apps using **Flutter**, **React Native**, and native integrations
+* Implement **VoIP calling**, **push notifications**, **FCM**, **file storage**, media handling, and AR/VR experiments
+
+### 🗄️ **Backend & API Development**
+
+* Build scalable REST APIs using **Node.js (Express.js)**
+* Work with **Python–Flask**, cloud functions, and microservices
+* Use **MongoDB & Firebase** for secure, flexible data architecture
+
+### 🎨 **UI/UX & Product Design**
+
+* Create wireframes, prototypes, and UI systems in **Figma & Adobe XD**
+* Passionate about colors, smooth layouts, and user-friendly flows
+
+### 🧠 **AI & System Development**
+
+* Working on **LangChain + OpenAI Retrieval Chains**
+* Building **AI-powered chat apps** with summarization & auto-reply
+* Experimenting with **image generation models** for pattern & frame design
+
+---
+
+# 🏅 Achievements
+
+* **Finalist – Smart India Hackathon 2022 (Hardware Track)**
+* Built **20+ full-scale applications and websites**
+* Currently developing:
+
+  * Real estate marketplace
+  * Video meeting app (Jitsi + screen recording)
+  * Canva-style design tool in Flutter
+  * Hybrid Telegram + AI-powered chat system
+
+---
+
+# 🛠️ Tech Stack
+
+## **Programming Languages**
+
+* Python
+* JavaScript / TypeScript
+* Dart
+* Java
+* C / C++
+* PHP
+* Rust
+* C#
+* SQL
+* NoSQL / MongoDB
+* Bash
+
+## **Frameworks & Tools**
+
+* Flutter
+* React Native
+* React.js
+* Next.js
+* Node.js (Express.js)
+* Flask
+* Firebase
+* MongoDB
+* XAMPP
+* Tailwind CSS
+* Figma
+* Adobe XD
+
+---
+
+# 🔧 Additional Expertise
+
+* AR/VR (Flutter hybrid experiments)
+* FCM push notifications & VoIP backend integration
+* MediaStore (Android 11+) file handling
+* Full-screen video & audio recording in Android
+* Server deployments using Node.js
+* Automated PDF/XLS generation
+* UI system design and prototyping
+
+---
+
+# 🎤 Beyond Tech
+
+Outside coding, I love:
+🎶 Singing • 🎹 Playing keyboard • ⚽ Playing & watching Football
+🚗 Passionate about **cars**, long drives, and auto-tech
+
+Music keeps me focused and helps me think faster — you should try it!
